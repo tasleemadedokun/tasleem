@@ -1,0 +1,23 @@
+h1{
+   color:rgb(0,232,15);
+}
+
+div{
+  display: flex;
+  justify-content: center;
+}
+
+img{
+  width: 80%;
+}
+h2 {
+    color:yellow;
+}
+
+h3{
+    color:purple;
+}
+
+h4{
+    color:red;
+}
